@@ -1,33 +1,28 @@
 ﻿using System;
 
-namespace Laboratorio2
+namespace Laboratorio22
 {
-    class Program
+
+
+    public class Program
     {
-        static void Main(string[] args)
+
+        public static void Main()
         {
-            Client client = new Client();
-            // ejemplo utilizando las variables de la instancia clases    
-            client.FirstName = "Su_Nombre";
-            client.LastName = "Su_Apellido";
-            client.Age = 15;
-            client.Id = 1;
-            Console.WriteLine(client.GetFullName());
+            //asignando valor a variable estatica
+            MyClass.Valor = 1;
+            Console.WriteLine(MyClass.Valor);
         }
     }
-
-    public class Client
+    public class Myclass
     {
-        // Declarando variable de instancia en clase
-        public int Id { get; set; }
-        public string FirstName { get; set; }
-        public string LastName { get; set; }
-        public ushort Age { get; set; }
 
-        public string GetFullName()
-        { 
-
-            return FirstName + " " + LastName;
-        }
+        //Declarando varibales estatica 
+        public static int Valor;
     }
+
+
+
 }
+                
+            
