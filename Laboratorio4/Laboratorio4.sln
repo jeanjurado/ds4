@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36511.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratorio4", "Laboratorio4\Laboratorio4.csproj", "{E1661432-99B0-41BB-BB81-4260BD523A86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratorio 4-2", "Laboratorio 4-2\Laboratorio 4-2.csproj", "{08C7E972-9F1C-4134-B3FE-0E199C9E262B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratorio 4-3", "Laboratorio 4-3\Laboratorio 4-3.csproj", "{9B3E26B3-7972-425D-8948-F79FD109902C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratorio 4-4", "Laboratorio 4-4\Laboratorio 4-4.csproj", "{0B3DB32C-09D8-4FC8-B2C8-B91E6D840AF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratorio 4-5", "Laboratorio 4-5\Laboratorio 4-5.csproj", "{43364830-4B87-437F-A658-F0807C38E9C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratorio 4-6", "Laboratorio 4-6\Laboratorio 4-6.csproj", "{26108382-0DED-4F4D-AE67-B48DE3DDA1DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratorio 4-7", "Laboratorio 4-7\Laboratorio 4-7.csproj", "{4084138F-E7E1-43A3-AFB2-C6D5EB819121}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1661432-99B0-41BB-BB81-4260BD523A86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1661432-99B0-41BB-BB81-4260BD523A86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1661432-99B0-41BB-BB81-4260BD523A86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1661432-99B0-41BB-BB81-4260BD523A86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08C7E972-9F1C-4134-B3FE-0E199C9E262B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08C7E972-9F1C-4134-B3FE-0E199C9E262B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08C7E972-9F1C-4134-B3FE-0E199C9E262B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08C7E972-9F1C-4134-B3FE-0E199C9E262B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B3E26B3-7972-425D-8948-F79FD109902C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B3E26B3-7972-425D-8948-F79FD109902C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B3E26B3-7972-425D-8948-F79FD109902C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B3E26B3-7972-425D-8948-F79FD109902C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B3DB32C-09D8-4FC8-B2C8-B91E6D840AF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B3DB32C-09D8-4FC8-B2C8-B91E6D840AF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B3DB32C-09D8-4FC8-B2C8-B91E6D840AF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B3DB32C-09D8-4FC8-B2C8-B91E6D840AF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43364830-4B87-437F-A658-F0807C38E9C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43364830-4B87-437F-A658-F0807C38E9C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43364830-4B87-437F-A658-F0807C38E9C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43364830-4B87-437F-A658-F0807C38E9C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26108382-0DED-4F4D-AE67-B48DE3DDA1DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26108382-0DED-4F4D-AE67-B48DE3DDA1DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26108382-0DED-4F4D-AE67-B48DE3DDA1DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26108382-0DED-4F4D-AE67-B48DE3DDA1DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4084138F-E7E1-43A3-AFB2-C6D5EB819121}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4084138F-E7E1-43A3-AFB2-C6D5EB819121}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4084138F-E7E1-43A3-AFB2-C6D5EB819121}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4084138F-E7E1-43A3-AFB2-C6D5EB819121}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B692A14-8DE2-4CC4-A3D9-D26A0FEE0E6F}
+	EndGlobalSection
+EndGlobal
